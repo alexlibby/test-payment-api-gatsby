@@ -9,4 +9,4 @@ This is the demo site to showcase the use of the Payment Request API, in my fort
 2. Enter npm i to install into your local folder
 3. Enter gatsby develop to start the Gatsby develop server - the site is available at http://localhost:8000
 
-*Coming...This site is available on Netlify....*
+Site can also be viewed on Netlify at https://adoring-austin-7d8e0b.netlify.app/
