@@ -1,6 +1,6 @@
 # "Gatsby e-Commerce" Chapter 13: Updating the Payment Process
 
-
+![Demo](/screenshot.png)
 
 This is the demo site to showcase the use of the Payment Request API, in my forthcoming book, "Gatsby e-Commerce", to be published by Apress.
 
